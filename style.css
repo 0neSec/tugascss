@@ -1,0 +1,37 @@
+.h1{
+    font: bold;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 100px; 
+}
+
+body{
+    /* background-image: linear-gradient(red,orange); */
+    background-image: url(bck.png);
+}
+#kotak{
+    border-spacing: 0px;
+    border-radius: 10px;
+    border-color: red;
+    background-color: rgb(27, 202, 255);
+    float: inline-start;
+    margin-right: 10px;
+    margin-left: 20px;
+}
+#ml{
+    border-radius: 10px;
+}
+.class{
+    width: 200px;
+}
+.container{
+    font-family: Verdana, Tahoma, sans-serif;
+    font: italic;
+
+}
+.github{
+    text-decoration: none;
+    color: black;
+}
+.github:hover{
+    color: blue;
+}
